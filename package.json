@@ -4,7 +4,6 @@
     "private": false,
     "author": "Tetiana Buchok",
     "dependencies": {
-        "parcel": "2.9.3",
         "prettier": "2.6.2",
         "tailwind": "4.0.0"
     },
@@ -15,5 +14,8 @@
     "browserslist": "> 0.5%, last 2 versions, not dead",
     "staticFiles": {
         "staticPath": "assets"
+    },
+    "devDependencies": {
+        "parcel": "^2.10.0"
     }
 }
