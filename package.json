@@ -4,8 +4,11 @@
     "private": false,
     "author": "Tetiana Buchok",
     "dependencies": {
+        "core-js": "^3.33.0",
         "prettier": "2.6.2",
-        "tailwind": "4.0.0"
+        "stable": "^0.1.8",
+        "tailwind": "4.0.0",
+        "uuid": "^9.0.1"
     },
     "scripts": {
         "dev": "parcel src/index.html",
